@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2350-find-closest-number-to-zero](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2350-find-closest-number-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
