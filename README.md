@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Sorting
 |  |
 | ------- |
