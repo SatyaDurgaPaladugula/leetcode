@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -40,10 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0217-contains-duplicate) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
