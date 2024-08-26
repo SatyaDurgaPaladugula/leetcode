@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0344-reverse-string) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
