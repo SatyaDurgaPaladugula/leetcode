@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
