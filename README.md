@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
