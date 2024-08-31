@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0069-sqrtx](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
