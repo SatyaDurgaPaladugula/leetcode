@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0136-single-number) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0242-valid-anagram) |
