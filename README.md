@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0742-to-lower-case](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3379-score-of-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/3379-score-of-a-string) |
