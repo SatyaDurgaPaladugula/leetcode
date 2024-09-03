@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -127,4 +129,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2107-find-unique-binary-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
