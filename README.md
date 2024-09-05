@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1205-defanging-an-ip-address](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1904-second-largest-digit-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1904-second-largest-digit-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2107-find-unique-binary-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Math
 |  |
