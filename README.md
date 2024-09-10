@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1205-defanging-an-ip-address) |
