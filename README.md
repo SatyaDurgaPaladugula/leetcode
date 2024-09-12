@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1610-xor-operation-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2491-smallest-even-multiple](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2507-number-of-common-factors) |
 ## Bit Manipulation
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0338-counting-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
