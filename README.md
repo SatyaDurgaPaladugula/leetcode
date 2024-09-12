@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1610-xor-operation-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2491-smallest-even-multiple](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2507-number-of-common-factors) |
+| [3371-harshad-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/3371-harshad-number) |
 ## Bit Manipulation
 |  |
 | ------- |
