@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0338-counting-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -180,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2507-number-of-common-factors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
