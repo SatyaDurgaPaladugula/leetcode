@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2491-smallest-even-multiple](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2507-number-of-common-factors) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0338-counting-bits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Simulation
 |  |
