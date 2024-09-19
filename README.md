@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1603-running-sum-of-1d-array) |
