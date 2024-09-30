@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1791-richest-customer-wealth](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2102-find-the-middle-index-in-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
