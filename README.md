@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1954-replace-all-digits-with-characters](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2107-find-unique-binary-string) |
