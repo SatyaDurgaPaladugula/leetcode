@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1944-truncate-sentence](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1944-truncate-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1944-truncate-sentence](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
