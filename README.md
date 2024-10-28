@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2406-decode-the-message) |
+| [2427-first-letter-to-appear-twice](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3379-score-of-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/3379-score-of-a-string) |
 ## Sorting
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1904-second-largest-digit-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2107-find-unique-binary-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2406-decode-the-message](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2406-decode-the-message) |
+| [2427-first-letter-to-appear-twice](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -232,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2427-first-letter-to-appear-twice](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
 |  |
 | ------- |
