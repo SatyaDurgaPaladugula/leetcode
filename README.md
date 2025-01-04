@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0455-assign-cookies) |
+| [1448-maximum-69-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1448-maximum-69-number) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Recursion
 |  |
