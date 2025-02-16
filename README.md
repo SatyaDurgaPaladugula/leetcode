@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2350-find-closest-number-to-zero](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Prefix Sum
 |  |
 | ------- |
