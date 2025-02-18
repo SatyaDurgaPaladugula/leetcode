@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2350-find-closest-number-to-zero](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3226-minimum-number-game](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [3226-minimum-number-game](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3226-minimum-number-game](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/3226-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -286,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
