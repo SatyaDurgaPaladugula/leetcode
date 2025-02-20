@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0682-baseball-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -294,4 +296,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/3226-minimum-number-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
