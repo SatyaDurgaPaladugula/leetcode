@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2350-find-closest-number-to-zero](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/3194-find-words-containing-character) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2491-smallest-even-multiple](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2556-convert-the-temperature) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/SatyaDurgaPaladugula/leetcode/tree/master/3371-harshad-number) |
